@@ -17,7 +17,7 @@ This project is a web application that implements various numerical methods for 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/numerical-methods-app.git
+   git clone https://github.com/KaminurOrynbek/comp_math_app.git
    ```
 2. Navigate to the project directory:
    ```
